@@ -1,0 +1,455 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: 2Way VideoCalls - HTML5 Webcam Videochat\n"
+"POT-Creation-Date: 2020-11-02 12:08+0200\n"
+"PO-Revision-Date: 2020-11-02 12:08+0200\n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language-Team: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: webcam-2way-videochat.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: inc/h5videochat.php:73
+msgid "Send"
+msgstr ""
+
+#: inc/h5videochat.php:74
+msgid "Type your message"
+msgstr ""
+
+#: inc/h5videochat.php:76
+msgid "Chat"
+msgstr ""
+
+#: inc/h5videochat.php:77
+msgid "Camera"
+msgstr ""
+
+#: inc/h5videochat.php:78
+msgid "Users"
+msgstr ""
+
+#: inc/h5videochat.php:79
+msgid "Options"
+msgstr ""
+
+#: inc/h5videochat.php:80
+msgid "Files"
+msgstr ""
+
+#: inc/h5videochat.php:81
+msgid "Presentation"
+msgstr ""
+
+#: inc/h5videochat.php:83
+msgid "Tap for Sound"
+msgstr ""
+
+#: inc/h5videochat.php:84
+msgid "Enable Audio"
+msgstr ""
+
+#: inc/h5videochat.php:85
+msgid "Mute"
+msgstr ""
+
+#: inc/h5videochat.php:86
+msgid "Reload"
+msgstr ""
+
+#: inc/h5videochat.php:88
+msgid "Packet Loss: Download Connection Issue"
+msgstr ""
+
+#: inc/h5videochat.php:89
+msgid "Packet Loss: Upload Connection Issue"
+msgstr ""
+
+#: inc/h5videochat.php:91
+msgid "Broadcast"
+msgstr ""
+
+#: inc/h5videochat.php:92
+msgid "Stop Broadcast"
+msgstr ""
+
+#: inc/h5videochat.php:93
+msgid "Make a selection to start!"
+msgstr ""
+
+#: inc/h5videochat.php:95
+msgid "Gift"
+msgstr ""
+
+#: inc/h5videochat.php:96
+msgid "Gifts"
+msgstr ""
+
+#: inc/h5videochat.php:98
+msgid "Lights On"
+msgstr ""
+
+#: inc/h5videochat.php:99
+msgid "Dark Mode"
+msgstr ""
+
+#: inc/h5videochat.php:100
+msgid "Enter Fullscreen"
+msgstr ""
+
+#: inc/h5videochat.php:101
+msgid "Exit Fullscreen"
+msgstr ""
+
+#: inc/h5videochat.php:103
+msgid "Site Menu"
+msgstr ""
+
+#: inc/h5videochat.php:105
+msgid "Next"
+msgstr ""
+
+#: inc/h5videochat.php:106
+msgid "Next: Random Videochat Room"
+msgstr ""
+
+#: inc/h5videochat.php:108
+msgid "Profile"
+msgstr ""
+
+#: inc/h5videochat.php:109
+msgid "Show"
+msgstr ""
+
+#: inc/h5videochat.php:111
+msgid "Private Call"
+msgstr ""
+
+#: inc/h5videochat.php:112 inc/h5videochat.php:258
+msgid "Exit"
+msgstr ""
+
+#: inc/h5videochat.php:224
+msgid "You are room owner."
+msgstr ""
+
+#: inc/h5videochat.php:226 inc/h5videochat.php:227
+msgid "Chat Type"
+msgstr ""
+
+#: inc/h5videochat.php:226
+msgid "Audio chat"
+msgstr ""
+
+#: inc/h5videochat.php:227
+msgid "Text chat"
+msgstr ""
+
+#: inc/h5videochat.php:765
+msgid "Only room owner can edit room options."
+msgstr ""
+
+#: inc/options.php:42
+msgid "Add Plugins"
+msgstr ""
+
+#: inc/options.php:49
+msgid "Contact Support"
+msgstr ""
+
+#: inc/options.php:67 inc/options.php:102
+msgid "Settings"
+msgstr ""
+
+#: inc/options.php:75
+msgid "Streaming Hosting"
+msgstr ""
+
+#: inc/options.php:82
+msgid "Turnkey Plans"
+msgstr ""
+
+#: inc/options.php:94 inc/options.php:119
+msgid "Video Calls"
+msgstr ""
+
+#: inc/options.php:779
+msgid "Setup Pages"
+msgstr ""
+
+#: inc/options.php:788
+msgid "Update Pages"
+msgstr ""
+
+#: inc/options.php:886
+msgid "Setup Overview"
+msgstr ""
+
+#: inc/options.php:896
+msgid "Setup Checkpoints"
+msgstr ""
+
+#: inc/options.php:1121
+msgid "This is usually the only setting you need to change to run this plugin."
+msgstr ""
+
+#: inc/options.php:1195
+msgid "Room Setup & Access"
+msgstr ""
+
+#: inc/options.php:1196
+msgid "Who can create rooms"
+msgstr ""
+
+#: inc/options.php:1198 inc/options.php:1224
+msgid "All Members"
+msgstr ""
+
+#: inc/options.php:1199 inc/options.php:1225
+msgid "Members in List"
+msgstr ""
+
+#: inc/options.php:1201
+msgid ""
+"Members in List: allowed to broadcast video (comma separated user names, "
+"roles, emails, IDs)"
+msgstr ""
+
+#: inc/options.php:1207
+msgid "Disabled"
+msgstr ""
+
+#: inc/options.php:1208
+msgid "On Registration"
+msgstr ""
+
+#: inc/options.php:1209
+msgid "On Login"
+msgstr ""
+
+#: inc/options.php:1210
+msgid "On Management Page"
+msgstr ""
+
+#: inc/options.php:1211
+msgid "Always"
+msgstr ""
+
+#: inc/options.php:1220
+msgid "Participants"
+msgstr ""
+
+#: inc/options.php:1221
+msgid "Who can enter videochat"
+msgstr ""
+
+#: inc/options.php:1223
+msgid "Anybody"
+msgstr ""
+
+#: inc/options.php:1227
+msgid ""
+"Members in List: Allowed to participate (comma separated user names, roles, "
+"emails, IDs)"
+msgstr ""
+
+#: inc/options.php:1284
+msgid "Application Translation Code"
+msgstr ""
+
+#: inc/options.php:1286
+msgid ""
+"Generate by writing and sending \"/videowhisper translation\" in application "
+"chat (contains xml tags with text and translation attributes). Texts are "
+"added to list only after being shown once in interface. If any texts do not "
+"show up in generated list you can manually add new entries for these."
+msgstr ""
+
+#: inc/options.php:1356
+msgid "End User License Agreement"
+msgstr ""
+
+#: inc/options.php:1361
+msgid "Cross Domain Policy"
+msgstr ""
+
+#: static/js/2.532af739.chunk.js:2
+msgid "DELETE"
+msgstr ""
+
+#: static/js/2.532af739.chunk.js:2
+msgid "GET"
+msgstr ""
+
+#: static/js/2.532af739.chunk.js:2
+msgid "HEAD"
+msgstr ""
+
+#: static/js/2.532af739.chunk.js:2
+msgid "OPTIONS"
+msgstr ""
+
+#: static/js/2.532af739.chunk.js:2
+msgid "PATCH"
+msgstr ""
+
+#: static/js/2.532af739.chunk.js:2
+msgid "POST"
+msgstr ""
+
+#: static/js/2.532af739.chunk.js:2
+msgid "PUT"
+msgstr ""
+
+#: webcam-2way-videochat.php:720
+msgid "Username is not available. Choose another!"
+msgstr ""
+
+#: webcam-2way-videochat.php:721
+msgid "Email is already registered."
+msgstr ""
+
+#: webcam-2way-videochat.php:723
+msgid "Email is not valid."
+msgstr ""
+
+#: webcam-2way-videochat.php:732
+msgid "Account created: "
+msgstr ""
+
+#: webcam-2way-videochat.php:733
+msgid "Could not register account."
+msgstr ""
+
+#: webcam-2way-videochat.php:836
+msgid ""
+"Please login first or register an account if you do not have one! Click here "
+"to return to website."
+msgstr ""
+
+#: webcam-2way-videochat.php:841
+msgid "You are not in the allowed users list!"
+msgstr ""
+
+#: webcam-2way-videochat.php:842 webcam-2way-videochat.php:1405
+#: webcam-2way-videochat.php:1564
+msgid "Please login first or register an account if you do not have one!"
+msgstr ""
+
+#: webcam-2way-videochat.php:969
+msgid ""
+"The transcript of this conversation, including snapshots is available at:"
+msgstr ""
+
+#: webcam-2way-videochat.php:1410 webcam-2way-videochat.php:1569
+msgid "You are not allowed to setup rooms!"
+msgstr ""
+
+#: webcam-2way-videochat.php:1411 webcam-2way-videochat.php:1570
+msgid "Please login first or register an username if you do not have one!"
+msgstr ""
+
+#: webcam-2way-videochat.php:1419
+msgid ""
+"This pages allows creating and managing video chat rooms for register "
+"members that have this feature enabled."
+msgstr ""
+
+#: webcam-2way-videochat.php:1464
+msgid "Call Booth"
+msgstr ""
+
+#: webcam-2way-videochat.php:1464
+msgid "Link to Share"
+msgstr ""
+
+#: webcam-2way-videochat.php:1464
+msgid "Online"
+msgstr ""
+
+#: webcam-2way-videochat.php:1464
+msgid "Access"
+msgstr ""
+
+#: webcam-2way-videochat.php:1464
+msgid "Manage"
+msgstr ""
+
+#: webcam-2way-videochat.php:1474
+msgid "Delete"
+msgstr ""
+
+#: webcam-2way-videochat.php:1474
+msgid "Logs"
+msgstr ""
+
+#: webcam-2way-videochat.php:1479
+msgid "You do not currently have any rooms."
+msgstr ""
+
+#: webcam-2way-videochat.php:1484
+msgid "Setup a New Call"
+msgstr ""
+
+#: webcam-2way-videochat.php:1485
+msgid "Name"
+msgstr ""
+
+#: webcam-2way-videochat.php:1486
+msgid "Access List"
+msgstr ""
+
+#: webcam-2way-videochat.php:1487
+msgid "Create"
+msgstr ""
+
+#: webcam-2way-videochat.php:1504
+msgid "No room name. Use valid characters!"
+msgstr ""
+
+#: webcam-2way-videochat.php:1521
+#, php-format
+msgid "Room \"%s\" was created."
+msgstr ""
+
+#: webcam-2way-videochat.php:1525
+#, php-format
+msgid "Room name \"%s\" is already in use. Please choose another name!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "2Way VideoCalls - HTML5 Webcam Videochat"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://videowhisper.com/?p=WordPress-Webcam-2Way-VideoChat"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<strong>2Way VideoCalls - HTML5 Webcam Videochat</strong> provides instant "
+"web based 1 on 1 private video call rooms using HTML5 Videochat.  <a "
+"href='https://videowhisper.com/tickets_submit.php?topic=2Way+VideoCalls"
+"+Plugin'>Contact Support</a> | <a href='admin.php?"
+"page=videocalls&tab=setup'>Setup</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VideoWhisper.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://videowhisper.com/"
+msgstr ""

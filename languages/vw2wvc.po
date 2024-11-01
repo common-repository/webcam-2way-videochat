@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Webcam 2Way VideoChat\n"
+"POT-Creation-Date: 2014-11-05 00:09+0200\n"
+"PO-Revision-Date: 2014-11-05 00:10+0200\n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language-Team: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-"
+"videochat\n"
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:23
+msgid "Settings"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:216
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:653
+msgid ""
+"Please login first or register an account if you do not have one! Click here "
+"to return to website."
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:221
+msgid "You are not in the allowed users list!"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:222
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:659
+msgid "Please login first or register an account if you do not have one!"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:278
+msgid ""
+"The transcript of this conversation, including snapshots is available at:"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:658
+msgid "You are not allowed to setup rooms!"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:699
+#, php-format
+msgid "Room \"%s\" was created."
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:703
+#, php-format
+msgid "Room name \"%s\" is already in use. Please choose another name!"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:721
+msgid "Room"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:721
+msgid "Link"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:721
+msgid "Online"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:721
+msgid "Manage"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:727
+msgid "Delete"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:727
+msgid "Logs"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:732
+msgid "You do not currently have any rooms."
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:737
+msgid "Setup a New Room"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:739
+msgid "Create"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:938
+msgid "Server"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:939
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:994
+msgid "Room Setup & Access"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:940
+msgid "Video"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:941
+msgid "Integration"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:952
+msgid ""
+"To run this, make sure your hosting environment meets all <a href=\"http://"
+"www.videowhisper.com/?p=Requirements\" target=\"_blank\">requirements</a>.  "
+"If you do not have a videowhisper rtmp address yet (from a managed rtmp "
+"host), go to <a href=\"http://www.videowhisper.com/?p=RTMP+Applications\" "
+"target=\"_blank\">RTMP Application Setup</a> for  installation details."
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:954
+msgid "This is usually the only setting you need to change to run this plugin."
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:995
+msgid "Who can create rooms"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:997
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:1008
+msgid "All Members"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:998
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:1009
+msgid "Members in List"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:1000
+msgid ""
+"Members in List: allowed to broadcast video (comma separated user names, "
+"roles, emails, IDs)"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:1004
+msgid "Participants"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:1005
+msgid "Who can enter videochat"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:1007
+msgid "Anybody"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:1011
+msgid ""
+"Members in List: Allowed to participate (comma separated user names, roles, "
+"emails, IDs)"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:1048
+msgid "Application Translation Code"
+msgstr ""
+
+#: /Users/NTM/Dropbox/projects/wordpress/webcam-2way-videochat/trunk/webcam-2way-videochat.php:1050
+msgid ""
+"Generate by writing and sending \"/videowhisper translation\" in application "
+"chat (contains xml tags with text and translation attributes). Texts are "
+"added to list only after being shown once in interface. If any texts do not "
+"show up in generated list you can manually add new entries for these."
+msgstr ""
